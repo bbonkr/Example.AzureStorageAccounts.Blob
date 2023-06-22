@@ -1,0 +1,3 @@
+{
+    "dotnet.defaultSolution": "Example.AzureStorageAccounts.Blob.sln"
+}
